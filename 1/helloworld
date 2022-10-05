@@ -1,0 +1,13 @@
+#include<iostream>
+
+using namespace std;
+
+int main(void)
+{
+    cout << "hello world!\n"; 
+    int a ;
+    cout << "please enter you number: "
+    << endl;
+    cin >> a;
+    cout << "you enter number is " << a << endl;
+}
